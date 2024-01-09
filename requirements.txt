@@ -1,0 +1,17 @@
+pandas 
+numpy
+notebook==6.1.5
+scikit-learn
+matplotlib
+seaborn
+plotly
+pickle-mixin
+scipy
+Pillow
+python-box==6.0.2
+pyYAML
+ensure==1.0.2
+joblib
+types-PyYAML
+Flask
+Flask-Cors
